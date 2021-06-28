@@ -1,0 +1,12 @@
+.Elem {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.textStat {
+  font-size: 23px;
+  font-weight: 500;
+  color: rgb(95, 95, 95);
+  text-align: start;
+}
